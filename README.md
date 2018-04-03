@@ -6,6 +6,8 @@ São frameworks que foram desenvolvido para trabalhar em conjunto com o controle
 Existe um grande desafio em garantir de que o modelo será seguido pelo time e o problema de se trabalhar com esses fluxos é a possibilidade de existir conflitos constantemente.
 
 O Gitflow trabalha com diferentes branches para gerenciar facilmente cada fase do desenvolvimento de software, é sugerido para ser usado quando seu software tem o conceito de "release" porque não é a melhor decisão quando você trabalha no ambiente de Entrega Contínua ou de Implementação Contínua , onde este conceito está ausente, além de ser ideal para projetos em equipe e cada um precise colaborar com o mesmo recurso, pois permite que cada um trabalhe na sua feature e consiga resolver bugs quando encontrados.  
+ 
+A principal diferença entre os dois frameworks está na forma em que serão aplicados dependendo da complexidade do projeto. A forma em que as branches são criadas e mescladas também diferem e os tipos, pois no gitflow existem cinco tipos: Master, Develop, Feature, Hotfix e Release. Já no Gitlab flow o processo é mais simples.
 
 
 ### Links de referência ###
