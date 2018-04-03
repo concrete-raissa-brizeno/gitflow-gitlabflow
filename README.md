@@ -1,4 +1,4 @@
-# Gitflow e Gitlabflow processes #
+# Gitflow e Gitlabflow #
 
 
 São frameworks que foram desenvolvido para trabalhar em conjunto com o controle de versão Git, são modelos que podem realmente ajudar a gerenciar um projeto e otimizar o fluxo de trabalho na equipe. 
